@@ -1,5 +1,3 @@
-# 🚀 Excursion Studio BETA
-
 <p align="center">
   <img src="../img/new_logo_en_horizon_transparent.png" alt="Excursion Studio Logo" width="400">
 </p>

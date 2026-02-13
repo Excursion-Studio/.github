@@ -1,5 +1,3 @@
-# 🚀 远行工作室 测试版
-
 <p align="center">
   <img src="../img/new_logo_zh_horizon_transparent.png" alt="远行工作室 Logo" width="400">
 </p>
