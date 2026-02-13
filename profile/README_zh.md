@@ -33,9 +33,9 @@
 
 | 课程 | 状态 | 链接 |
 |------|------|------|
-| 凸优化 | ✅ 可用 | [访问](https://excursion-studio.github.io/convex-optimization/) |
-| 微分几何 | ✅ 可用 | [访问](https://excursion-studio.github.io/differential-geometry/) |
-| 随机过程 | ✅ 可用 | [访问](https://excursion-studio.github.io/stochastic-process/) |
+| 凸优化 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
+| 微分几何 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
+| 随机过程 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
 
 ---
 

@@ -33,9 +33,9 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 | Course | Status | Link |
 |--------|--------|------|
-| Convex Optimization | ✅ Available | [Access](https://excursion-studio.github.io/convex-optimization/) |
-| Differential Geometry | ✅ Available | [Access](https://excursion-studio.github.io/differential-geometry/) |
-| Stochastic Process | ✅ Available | [Access](https://excursion-studio.github.io/stochastic-process/) |
+| Convex Optimization | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
+| Differential Geometry | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
+| Stochastic Process | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
 
 ---
 
