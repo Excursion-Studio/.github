@@ -1,7 +1,7 @@
 # 🚀 远行工作室 测试版
 
 <p align="center">
-  <img src="img/new_logo_zh_horizon_transparent.png" alt="远行工作室 Logo" width="400">
+  <img src="../img/new_logo_zh_horizon_transparent.png" alt="远行工作室 Logo" width="400">
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="img/QRCode.jpg" alt="二维码" width="150">
+  <img src="../img/QRCode.jpg" alt="二维码" width="150">
   <br>
   <sub>扫描二维码，可以关注我们的微信公众号！</sub>
 </p>

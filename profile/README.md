@@ -1,7 +1,7 @@
 # 🚀 Excursion Studio BETA
 
 <p align="center">
-  <img src="img/new_logo_en_horizon_transparent.png" alt="Excursion Studio Logo" width="400">
+  <img src="../img/new_logo_en_horizon_transparent.png" alt="Excursion Studio Logo" width="400">
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ A personal studio dedicated to probabilistic robotics research and education. We
 </p>
 
 <p align="center">
-  <img src="img/QRCode.jpg" alt="QR Code" width="150">
+  <img src="../img/QRCode.jpg" alt="QR Code" width="150">
   <br>
   <sub>Scan the QR code to follow our WeChat official account!</sub>
 </p>
