@@ -77,7 +77,7 @@ A personal studio dedicated to probabilistic robotics research and education. We
 
 | Name | Role | Contact |
 |------|------|---------|
-| **Kaixiang Chen**<br>*(Constantine Heinrich CHEN)* | Founder & Principal | Available on the [Contact page](https://chen-kaixiang-huian.github.io/) |
+| **Kaixiang Chen**<br>*(Constantine Heinrich CHEN)* | Propriator | Available on the [Contact page](https://chen-kaixiang-huian.github.io/) |
 
 ---
 
