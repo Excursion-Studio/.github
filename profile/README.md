@@ -51,17 +51,17 @@ Research-related page templates for academic and research use:
 | Research Project Page (ESRPP) | ✅ Available | [Preview](https://excursion-studio.github.io/Research-Project-Page-Template/) |
 | Personal Homepage (ESPH) | ⚠️ Available but Outdated | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template/) |
 
-Future, as the studio evolves, we will continue to release more practical products and services, such as research tools, research platforms, etc.
+Future, as the studio evolves, the studio will continue to release more practical products and services, such as research tools, research platforms, etc.
 
 ---
 
 ## 🎯 Vision
 
-> **Building a studio has always been my dream, and I will try my best to make it come true!**
+> **Building a studio has always been the dream of the proprietor, and the proprietor will try his best to make it come true!**
 
-Excursion Studio aims to create a **more interactive and fashionable platform** that provides a **comfortable environment** for visitors interested in our studio's **work, facilities, and products**.
+Excursion Studio aims to create a **more interactive and fashionable platform** that provides a **comfortable environment** for visitors interested in the studio's **work, facilities, and products**.
 
-While currently in BETA with limited resources, the vision is to gradually build a fully-equipped research studio. Stay tuned as we continue to fill this platform with valuable content!
+While currently in BETA with limited resources, the vision is to gradually build a fully-equipped research studio. Stay tuned as the studio continues to fill this platform with valuable content!
 
 ---
 
@@ -71,7 +71,7 @@ While currently in BETA with limited resources, the vision is to gradually build
 
 **Excursion Studio (远行工作室)**
 
-A personal studio dedicated to probabilistic robotics research and education. We create courses, develop research tools, and share knowledge with the community.
+A personal studio dedicated to probabilistic robotics research and education. Studio will continue to create and improve courses, develop research tools, and share knowledge with the community.
 
 ### Team Members
 
@@ -88,5 +88,5 @@ A personal studio dedicated to probabilistic robotics research and education. We
 <p align="center">
   <img src="../img/QRCode.jpg" alt="QR Code" width="150">
   <br>
-  <sub>Scan the QR code to follow our WeChat official account!</sub>
+  <sub>Scan the QR code to follow the studio's WeChat official account!</sub>
 </p>
