@@ -29,7 +29,7 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ## 📚 Courses
 
-### Foundation of Probabilistic Robotics
+### Foundation of Probabilistic Robotics Series
 
 | Course | Status | Link |
 |--------|--------|------|
@@ -37,6 +37,11 @@ The site automatically redirects to the Chinese version by default. Use the lang
 | Differential Geometry | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
 | Stochastic Process | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
 
+### Robot Practical Tools Series
+
+| Course | Status | Link |
+|--------|--------|------|
+| ROS2 Basic and Advanced Tutorials | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/ROS2/) |
 ---
 
 ## 🎁 Products

@@ -29,13 +29,19 @@
 
 ## 📚 课程
 
-### 概率机器人基础
+### 概率机器人基础系列
 
 | 课程 | 状态 | 链接 |
 |------|------|------|
 | 凸优化 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
 | 微分几何 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
 | 随机过程 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
+
+### 机器人实践工具系列
+
+| 课程 | 状态 | 链接 |
+|------|------|------|
+| ROS2 基础与进阶教程 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/ROS2/) |
 
 ---
 
@@ -75,7 +81,7 @@
 
 | 姓名 | 角色 | 联系方式 |
 |------|------|---------|
-| **陈恺翔**<br>*(Constantine Heinrich CHEN)* | 创始人 & 主理人 | 详见[联系页面](https://chen-kaixiang-huian.github.io/) |
+| **陈恺翔**<br>*(Constantine Heinrich CHEN)* | 主理人 | 详见[联系页面](https://chen-kaixiang-huian.github.io/) |
 
 
 ---
