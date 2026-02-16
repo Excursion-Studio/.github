@@ -64,7 +64,7 @@ Future, as the studio evolves, the studio will continue to release more practica
 
 ### 2026.02.16
 
-New year is coming, and our **Paper Guide** and **Paper Newsletter** columns are under development. Stay tuned for more updates!
+New year is coming, and our **Paper Guide** and **Paper Express** columns are under development. Stay tuned for more updates!
 
 ---
 
