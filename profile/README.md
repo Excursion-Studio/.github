@@ -60,6 +60,14 @@ Future, as the studio evolves, the studio will continue to release more practica
 
 ---
 
+## 🎯 Future Updates
+
+### 2026.02.16
+
+New year is coming, and our **Paper Guide** and **Paper Newsletter** columns are under development. Stay tuned for more updates!
+
+---
+
 ## 🎯 Vision
 
 > **Building a studio has always been the dream of the proprietor, and the proprietor will try his best to make it come true!**
