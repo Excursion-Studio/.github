@@ -15,13 +15,21 @@ def load_json(filepath):
         return json.load(f)
 
 
+def convert_z_tags(text):
+    """Convert <z> and <zi> tags to Markdown bold (**text**)"""
+    text = re.sub(r'<z>(.*?)</z>', r'**\1**', text)
+    text = re.sub(r'<zi>(.*?)</zi>', r'**\1**', text)
+    return text
+
+
 def generate_courses_table(sections, lang='en'):
     """Generate courses markdown table"""
     lines = []
     access_text = "Access" if lang == 'en' else "访问"
     
     for section in sections:
-        lines.append(f"### {section['title']}\n")
+        title = convert_z_tags(section['title'])
+        lines.append(f"### {title}\n")
         lines.append("")
         lines.append("| Course | Status | Link |")
         lines.append("|--------|--------|------|")
@@ -29,7 +37,8 @@ def generate_courses_table(sections, lang='en'):
         for item in section.get('items', []):
             status = "✅ Available" if item.get('available', False) else "❌ Not Available"
             link = f"[{access_text}]({item['link']})"
-            lines.append(f"| {item['title']} | {status} | {link} |")
+            item_title = convert_z_tags(item['title'])
+            lines.append(f"| {item_title} | {status} | {link} |")
         
         lines.append("")
     
@@ -42,7 +51,8 @@ def generate_products_table(sections, lang='en'):
     preview_text = "Preview" if lang == 'en' else "预览"
     
     for section in sections:
-        lines.append(f"### {section['title']}\n")
+        title = convert_z_tags(section['title'])
+        lines.append(f"### {title}\n")
         lines.append("")
         lines.append("| Product | Status | Link |")
         lines.append("|---------|--------|------|")
@@ -50,7 +60,8 @@ def generate_products_table(sections, lang='en'):
         for item in section.get('items', []):
             status = "✅ Available" if item.get('available', False) else "❌ Not Available"
             link = f"[{preview_text}]({item['link']})"
-            lines.append(f"| {item['title']} | {status} | {link} |")
+            item_title = convert_z_tags(item['title'])
+            lines.append(f"| {item_title} | {status} | {link} |")
         
         lines.append("")
     
