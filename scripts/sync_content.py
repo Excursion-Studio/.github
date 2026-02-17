@@ -79,33 +79,6 @@ def update_readme_section(readme_content, section_name, new_content):
     return re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
 
-def update_logo(readme_content, logo_base64, lang='en'):
-    """Update logo in README with base64 SVG"""
-    alt_text = "Excursion Studio Logo" if lang == 'en' else "远行工作室 Logo"
-    
-    # Find and replace the logo image (matches logo images by alt text or path containing 'logo')
-    # Pattern matches: <img src="..." alt="...Logo..." width="...">
-    logo_pattern = r'<img[^>]*alt="[^"]*Logo[^"]*"[^>]*>'
-    new_logo = f'<img src="data:image/svg+xml;base64,{logo_base64}" alt="{alt_text}" width="400">'
-    
-    return re.sub(logo_pattern, new_logo, readme_content, flags=re.IGNORECASE)
-
-
-def update_qrcode(readme_content, lang='en'):
-    """Update QRCode image to use direct URL from excursion-studio.github.io"""
-    alt_text = "QR Code" if lang == 'en' else "二维码"
-    sub_text = "Scan the QR code to follow the studio's WeChat official account!" if lang == 'en' else "扫描二维码，可以关注工作室的微信公众号！"
-    
-    # QRCode URL from excursion-studio.github.io repository
-    qrcode_url = "https://excursion-studio.github.io/decorations/QRCode.jpg"
-    
-    # Find and replace the QRCode image
-    qrcode_pattern = r'<img[^>]*src="[^"]*QRCode[^"]*"[^>]*>'
-    new_qrcode = f'<img src="{qrcode_url}" alt="{alt_text}" width="150">'
-    
-    return re.sub(qrcode_pattern, new_qrcode, readme_content, flags=re.IGNORECASE)
-
-
 def sync_content(source_dir, target_dir):
     """Main sync function"""
     source_path = Path(source_dir)
@@ -116,8 +89,6 @@ def sync_content(source_dir, target_dir):
     courses_zh = load_json(source_path / 'data' / 'zh' / 'courses.json')
     products_en = load_json(source_path / 'data' / 'en' / 'products.json')
     products_zh = load_json(source_path / 'data' / 'zh' / 'products.json')
-    common_en = load_json(source_path / 'data' / 'en' / 'common.json')
-    common_zh = load_json(source_path / 'data' / 'zh' / 'common.json')
     
     # Read current README files
     readme_en_path = target_path / 'profile' / 'README.md'
@@ -137,18 +108,6 @@ def sync_content(source_dir, target_dir):
     readme_zh = update_readme_section(readme_zh, 'COURSES', courses_zh_content)
     readme_en = update_readme_section(readme_en, 'PRODUCTS', products_en_content)
     readme_zh = update_readme_section(readme_zh, 'PRODUCTS', products_zh_content)
-    
-    # Update logos
-    logo_en = common_en.get('navbar', {}).get('logo', '')
-    logo_zh = common_zh.get('navbar', {}).get('logo', '')
-    if logo_en:
-        readme_en = update_logo(readme_en, logo_en, 'en')
-    if logo_zh:
-        readme_zh = update_logo(readme_zh, logo_zh, 'zh')
-    
-    # Update QRCode images
-    readme_en = update_qrcode(readme_en, 'en')
-    readme_zh = update_qrcode(readme_zh, 'zh')
     
     # Write updated READMEs
     readme_en_path.write_text(readme_en, encoding='utf-8')
