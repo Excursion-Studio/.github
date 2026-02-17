@@ -60,7 +60,7 @@ The site automatically redirects to the Chinese version by default. Use the lang
 |---------|--------|------|
 | Excursion Studio Personal Homepage Ver.2 (ESPH-V2) | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
 | Excursion Studio Research Project Page (ESRPP) | ✅ Available | [Preview](https://excursion-studio.github.io/Research-Project-Page-Template/) |
-| Excursion Studio Personal Homepage (ESPH) <z>(Outdated)</z> | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template/) |
+| Excursion Studio Personal Homepage (ESPH) **(Outdated)** | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template/) |
 
 <!-- PRODUCTS_END -->
 

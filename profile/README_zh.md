@@ -60,7 +60,7 @@
 |---------|--------|------|
 | 远行工作室-个人主页模板 Ver.2 (ESPH-V2) | ✅ Available | [预览](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
 | 远行工作室-研究项目页面模板 (ESRPP) | ✅ Available | [预览](https://excursion-studio.github.io/Research-Project-Page-Template/) |
-| 远行工作室-个人主页模板 (ESPH) <z>（过旧）</z> | ✅ Available | [预览](https://excursion-studio.github.io/Personal-Homepage-Template/) |
+| 远行工作室-个人主页模板 (ESPH) **（过旧）** | ✅ Available | [预览](https://excursion-studio.github.io/Personal-Homepage-Template/) |
 
 <!-- PRODUCTS_END -->
 
