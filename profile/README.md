@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../img/new_logo_en_horizon_transparent.png" alt="Excursion Studio Logo" width="400">
+  <img src="" alt="Excursion Studio Logo" width="400">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## ✨ About
 
-Excursion Studio is a personal studio platform dedicated to sharing knowledge and providing research-related resources. 
+Excursion Studio is a personal studio platform dedicated to sharing knowledge and providing research-related resources.
 
 ---
 
@@ -29,34 +29,15 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ## 📚 Courses
 
-### Foundation of Probabilistic Robotics Series
+<!-- COURSES_START -->
+<!-- COURSES_END -->
 
-| Course | Status | Link |
-|--------|--------|------|
-| Convex Optimization | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
-| Differential Geometry | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
-| Stochastic Process | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
-
-### Robot Practical Tools Series
-
-| Course | Status | Link |
-|--------|--------|------|
-| ROS2 Basic and Advanced Tutorials | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/ROS2/) |
 ---
 
 ## 🎁 Products
 
-Currently, we have only following virtual products.
-
-Research-related page templates for academic and research use:
-
-| Product | Status | Link |
-|---------|--------|------|
-| Personal Homepage Ver.2 (ESPH-V2) | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
-| Research Project Page (ESRPP) | ✅ Available | [Preview](https://excursion-studio.github.io/Research-Project-Page-Template/) |
-| Personal Homepage (ESPH) | ⚠️ Available but Outdated | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template/) |
-
-Future, as the studio evolves, the studio will continue to release more practical products and services, such as research tools, research platforms, etc.
+<!-- PRODUCTS_START -->
+<!-- PRODUCTS_END -->
 
 ---
 
@@ -99,7 +80,7 @@ A personal studio dedicated to probabilistic robotics research and education. St
 </p>
 
 <p align="center">
-  <img src="../img/QRCode.jpg" alt="QR Code" width="150">
+  <img src="" alt="QR Code" width="150">
   <br>
   <sub>Scan the QR code to follow the studio's WeChat official account!</sub>
 </p>

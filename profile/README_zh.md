@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../img/new_logo_zh_horizon_transparent.png" alt="远行工作室 Logo" width="400">
+  <img src="" alt="远行工作室 Logo" width="400">
 </p>
 
 <p align="center">
@@ -29,33 +29,15 @@
 
 ## 📚 课程
 
-### 概率机器人基础系列
-
-| 课程 | 状态 | 链接 |
-|------|------|------|
-| 凸优化 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
-| 微分几何 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
-| 随机过程 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
-
-### 机器人实践工具系列
-
-| 课程 | 状态 | 链接 |
-|------|------|------|
-| ROS2 基础与进阶教程 | ✅ 可用 | [访问](https://excursion-studio.github.io/ES-courses/ROS2/) |
+<!-- COURSES_START -->
+<!-- COURSES_END -->
 
 ---
 
 ## 🎁 产品
 
-目前工作室的产品仅为虚拟的页面模板，面向学术和研究使用的研究相关页面模板：
-
-| 产品 | 状态 | 链接 |
-|------|------|------|
-| 个人主页 Ver.2 (ESPH-V2) | ✅ 可用 | [预览](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
-| 研究项目页面 (ESRPP) | ✅ 可用 | [预览](https://excursion-studio.github.io/Research-Project-Page-Template/) |
-| 个人主页 (ESPH) | ⚠️ 可用但已过时 | [预览](https://excursion-studio.github.io/Personal-Homepage-Template/) |
-
-未来随着工作室的发展，工作室将继续推出更多实际有用的产品和服务，如研究工具、科研平台等。
+<!-- PRODUCTS_START -->
+<!-- PRODUCTS_END -->
 
 ---
 
@@ -91,7 +73,6 @@
 |------|------|---------|
 | **陈恺翔**<br>*(Constantine Heinrich CHEN)* | 主理人 | 详见[联系页面](https://chen-kaixiang-huian.github.io/) |
 
-
 ---
 
 <p align="center">
@@ -99,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="../img/QRCode.jpg" alt="二维码" width="150">
+  <img src="" alt="二维码" width="150">
   <br>
   <sub>扫描二维码，可以关注工作室的微信公众号！</sub>
 </p>
