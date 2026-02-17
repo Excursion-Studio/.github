@@ -37,18 +37,6 @@
 ## 🎁 产品
 
 <!-- PRODUCTS_START -->
-<<<<<<< HEAD
-=======
-### 科研相关页面模板系列
-
-
-| Product | Status | Link |
-|---------|--------|------|
-| 远行工作室-个人主页模板 Ver.2 (ESPH-V2) | ✅ Available | [预览](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
-| 远行工作室-研究项目页面模板 (ESRPP) | ✅ Available | [预览](https://excursion-studio.github.io/Research-Project-Page-Template/) |
-| 远行工作室-个人主页模板 (ESPH) **（过旧）** | ✅ Available | [预览](https://excursion-studio.github.io/Personal-Homepage-Template/) |
-
->>>>>>> 57c4f01f690c48ba4ef77bf97c82c23f35ac8e51
 <!-- PRODUCTS_END -->
 
 ---
