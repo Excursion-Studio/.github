@@ -32,7 +32,7 @@
 <!-- DIGESTS_START -->
 | 标题 | 链接 |
 |-------|------|
-| 论文导读 2 - 示例论文：如何使用 Paper Guide **最新！** | [阅读](#) |
+| 论文导读 2 - 示例论文：如何使用 Paper Guide <span style="color: white; background-color: red; padding: 2px 6px; border-radius: 3px; font-size: 12px;">最新！</span> | [阅读](#) |
 | 论文导读 1 - Attention Is All You Need | [阅读](https://arxiv.org/abs/1706.03762) |
 | 论文速递 2 - Attention Is All You Need | [阅读](https://arxiv.org/abs/1706.03762) |
 
