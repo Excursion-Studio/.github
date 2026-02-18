@@ -72,7 +72,7 @@ def generate_digests_table(sections, lang='en'):
     """Generate digests markdown table with top 3 latest items"""
     lines = []
     read_text = "Read" if lang == 'en' else "阅读"
-    latest_text = '<span style="color: red;">Latest!</span>' if lang == 'en' else '<span style="color: red;">最新！</span>'
+    latest_text = "**🔥 Latest!**" if lang == 'en' else "**🔥 最新！**"
     title_header = "Title" if lang == 'en' else "标题"
     link_header = "Link" if lang == 'en' else "链接"
     
