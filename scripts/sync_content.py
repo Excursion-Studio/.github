@@ -68,6 +68,37 @@ def generate_products_table(sections, lang='en'):
     return "\n".join(lines)
 
 
+def generate_digests_table(sections, lang='en'):
+    """Generate digests markdown table with top 3 latest items"""
+    lines = []
+    read_text = "Read" if lang == 'en' else "阅读"
+    latest_text = "**Latest!**" if lang == 'en' else "**最新！**"
+    title_header = "Title" if lang == 'en' else "标题"
+    link_header = "Link" if lang == 'en' else "链接"
+    
+    all_items = []
+    for section in sections:
+        for item in section.get('items', []):
+            all_items.append(item)
+    
+    all_items.sort(key=lambda x: x.get('digestPubTime', ''), reverse=True)
+    top_items = all_items[:3]
+    
+    lines.append(f"| {title_header} | {link_header} |")
+    lines.append("|-------|------|")
+    
+    for i, item in enumerate(top_items):
+        title = convert_z_tags(item.get('title', ''))
+        if i == 0:
+            title = f"{title} {latest_text}"
+        link = f"[{read_text}]({item.get('pdfUrl', '#')})"
+        lines.append(f"| {title} | {link} |")
+    
+    lines.append("")
+    
+    return "\n".join(lines)
+
+
 def update_readme_section(readme_content, section_name, new_content):
     """Update a section in README between markers"""
     start_marker = f"<!-- {section_name}_START -->"
@@ -89,6 +120,8 @@ def sync_content(source_dir, target_dir):
     courses_zh = load_json(source_path / 'data' / 'zh' / 'courses.json')
     products_en = load_json(source_path / 'data' / 'en' / 'products.json')
     products_zh = load_json(source_path / 'data' / 'zh' / 'products.json')
+    digests_en = load_json(source_path / 'data' / 'en' / 'digests.json')
+    digests_zh = load_json(source_path / 'data' / 'zh' / 'digests.json')
     
     # Read current README files
     readme_en_path = target_path / 'profile' / 'README.md'
@@ -102,12 +135,16 @@ def sync_content(source_dir, target_dir):
     courses_zh_content = generate_courses_table(courses_zh.get('sections', []), 'zh')
     products_en_content = generate_products_table(products_en.get('sections', []), 'en')
     products_zh_content = generate_products_table(products_zh.get('sections', []), 'zh')
+    digests_en_content = generate_digests_table(digests_en.get('sections', []), 'en')
+    digests_zh_content = generate_digests_table(digests_zh.get('sections', []), 'zh')
     
     # Update READMEs
     readme_en = update_readme_section(readme_en, 'COURSES', courses_en_content)
     readme_zh = update_readme_section(readme_zh, 'COURSES', courses_zh_content)
     readme_en = update_readme_section(readme_en, 'PRODUCTS', products_en_content)
     readme_zh = update_readme_section(readme_zh, 'PRODUCTS', products_zh_content)
+    readme_en = update_readme_section(readme_en, 'DIGESTS', digests_en_content)
+    readme_zh = update_readme_section(readme_zh, 'DIGESTS', digests_zh_content)
     
     # Write updated READMEs
     readme_en_path.write_text(readme_en, encoding='utf-8')

@@ -27,6 +27,13 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ---
 
+## 📕 Digests
+
+<!-- DIGESTS_START -->
+<!-- DIGESTS_END -->
+
+---
+
 ## 📚 Courses
 
 <!-- COURSES_START -->
@@ -38,14 +45,6 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 <!-- PRODUCTS_START -->
 <!-- PRODUCTS_END -->
-
----
-
-## 🎯 Future Updates
-
-### 2026.02.16
-
-New year is coming, and our **Paper Guide** and **Paper Express** columns are under development. Stay tuned for more updates!
 
 ---
 
