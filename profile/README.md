@@ -30,6 +30,9 @@ The site automatically redirects to the Chinese version by default. Use the lang
 ## 📕 Digests
 
 <!-- DIGESTS_START -->
+| Title | Link |
+|-------|------|
+
 <!-- DIGESTS_END -->
 
 ---
