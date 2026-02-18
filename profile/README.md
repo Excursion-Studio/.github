@@ -32,7 +32,7 @@ The site automatically redirects to the Chinese version by default. Use the lang
 <!-- DIGESTS_START -->
 | Title | Link |
 |-------|------|
-| Paper Guide 2 - 示例论文：如何使用 Paper Guide <span style="color: white; background-color: red; padding: 2px 6px; border-radius: 3px; font-size: 12px;">Latest!</span> | [Read](#) |
+| Paper Guide 2 - 示例论文：如何使用 Paper Guide <span style="color: red;">Latest!</span> | [Read](#) |
 | Paper Guide 1 - Attention Is All You Need | [Read](https://arxiv.org/abs/1706.03762) |
 | Paper Express 2 - Attention Is All You Need | [Read](https://arxiv.org/abs/1706.03762) |
 
