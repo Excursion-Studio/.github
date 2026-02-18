@@ -91,7 +91,23 @@ def generate_digests_table(sections, lang='en'):
         title = convert_z_tags(item.get('title', ''))
         if i == 0:
             title = f"{title} {latest_text}"
-        link = f"[{read_text}]({item.get('pdfUrl', '#')})"
+        
+        # Parse sourcePath to build correct URL if available
+        source_path = item.get('sourcePath')
+        if source_path:
+            # Extract paperName: take last two elements after split, then first one
+            parts = source_path.split('/')
+            if len(parts) >= 2:
+                paper_name = parts[-2]
+                # Extract categoryPath: first two parts (e.g., paper-guide or paper-express)
+                category_path = parts[0]
+                url = f"https://excursion-studio.github.io/ES-digests/{category_path}/index.html?paper={paper_name}"
+            else:
+                url = item.get('pdfUrl', '#')
+        else:
+            url = item.get('pdfUrl', '#')
+        
+        link = f"[{read_text}]({url})"
         lines.append(f"| {title} | {link} |")
     
     lines.append("")
