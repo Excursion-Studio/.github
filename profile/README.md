@@ -34,7 +34,7 @@ The site automatically redirects to the Chinese version by default. Use the lang
 |-------|------|
 | Paper Guide 2 - 示例论文：如何使用 Paper Guide **🔥 Latest!** | [Read](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=example-paper) |
 | Paper Guide 1 - Attention Is All You Need | [Read](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=attention-is-all-you-need) |
-| Paper Express 2 - Attention Is All You Need | [Read](https://excursion-studio.github.io/ES-digests/paper-express/index.html?paper=attention-is-all-you-need) |
+| Paper Express 2 - 示例论文：如何使用 Paper Express | [Read](https://excursion-studio.github.io/ES-digests/paper-express/index.html?paper=example-paper) |
 
 <!-- DIGESTS_END -->
 
