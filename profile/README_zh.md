@@ -32,9 +32,8 @@
 <!-- DIGESTS_START -->
 | 标题 | 链接 |
 |-------|------|
-| 论文导读 2 - 示例论文：如何使用 Paper Guide **🔥 最新！** | [阅读](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=example-paper) |
+| 论文导读 1 - 示例论文：如何使用 Paper Guide **🔥 最新！** | [阅读](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=example-paper) |
 | 论文速递 1 - 示例论文：如何使用 Paper Express | [阅读](https://excursion-studio.github.io/ES-digests/paper-express/index.html?paper=example-paper) |
-| 论文导读 1 - Attention Is All You Need | [阅读](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=attention-is-all-you-need) |
 
 <!-- DIGESTS_END -->
 
