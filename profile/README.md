@@ -32,8 +32,7 @@ The site automatically redirects to the Chinese version by default. Use the lang
 <!-- DIGESTS_START -->
 | Title | Link |
 |-------|------|
-| Paper Guide 1 - 示例论文：如何使用 Paper Guide **🔥 Latest!** | [Read](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=example-paper) |
-| Paper Express 1 - 示例论文：如何使用 Paper Express | [Read](https://excursion-studio.github.io/ES-digests/paper-express/index.html?paper=example-paper) |
+| Paper Guide 1 - Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation **🔥 Latest!** | [Read](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=prespecified-performance-kinematic-tracking-control-for-aerial-manipulation) |
 
 <!-- DIGESTS_END -->
 
