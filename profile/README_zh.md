@@ -41,21 +41,6 @@
 ## 📚 课程
 
 <!-- COURSES_START -->
-### 概率机器人基础教程系列
-
-
-| Course | Status | Link |
-|--------|--------|------|
-| 凸优化 | ✅ Available | [访问](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
-| 微分几何 | ✅ Available | [访问](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
-| 随机过程 | ✅ Available | [访问](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
-
-### 机器人实践工具系列
-
-
-| Course | Status | Link |
-|--------|--------|------|
-| ROS2 基础与进阶教程 | ✅ Available | [访问](https://excursion-studio.github.io/ES-courses/ROS2/) |
 
 <!-- COURSES_END -->
 
