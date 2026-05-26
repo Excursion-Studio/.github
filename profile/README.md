@@ -13,12 +13,6 @@
 
 ---
 
-## ✨ About
-
-Excursion Studio is a personal studio platform dedicated to sharing knowledge and providing research-related resources.
-
----
-
 ## 🌐 Visit
 
 **🔗 [https://excursion-studio.github.io/](https://excursion-studio.github.io/)**
@@ -27,55 +21,23 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ---
 
-## 📕 Digests
+## 🔬 Research
 
-<!-- DIGESTS_START -->
-| Title | Link |
-|-------|------|
-| Paper Guide 2 - 示例论文：如何使用 Paper Guide **🔥 Latest!** | [Read](#) |
-| Paper Guide 1 - Attention Is All You Need | [Read](https://arxiv.org/abs/1706.03762) |
-| Paper Express 2 - Attention Is All You Need | [Read](https://arxiv.org/abs/1706.03762) |
-
-<!-- DIGESTS_END -->
-
----
-
-## 📚 Courses
-
-<!-- COURSES_START -->
-### Foundation of Probabilistic Robotics Tutorial Series
-
-
-| Course | Status | Link |
-|--------|--------|------|
-| Convex Optimization | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/convex-optimization/) |
-| Differential Geometry | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/differential-geometry/) |
-| Stochastic Process | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/stochastic-process/) |
-
-### Robot Practical Tools Series
-
-
-| Course | Status | Link |
-|--------|--------|------|
-| ROS2 Basic and Advanced Tutorials | ✅ Available | [Access](https://excursion-studio.github.io/ES-courses/ROS2/) |
-
-<!-- COURSES_END -->
+| Research Area | Status | Description |
+|---------------|--------|-------------|
+| Foundation of Navigation and Planning | 🔬 Active | Including State Estimation, SLAM, Planning and Policy, and Control |
 
 ---
 
 ## 🎁 Products
 
-<!-- PRODUCTS_START -->
 ### Research-related Page Templates Series
-
 
 | Product | Status | Link |
 |---------|--------|------|
 | Excursion Studio Personal Homepage Ver.2 (ESPH-V2) | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template-v2/) |
 | Excursion Studio Research Project Page (ESRPP) | ✅ Available | [Preview](https://excursion-studio.github.io/Research-Project-Page-Template/) |
 | Excursion Studio Personal Homepage (ESPH) **(Outdated)** | ✅ Available | [Preview](https://excursion-studio.github.io/Personal-Homepage-Template/) |
-
-<!-- PRODUCTS_END -->
 
 ---
 
@@ -89,28 +51,6 @@ While currently in BETA with limited resources, the vision is to gradually build
 
 ---
 
-## 👥 About Us
-
-### Studio
-
-**Excursion Studio (远行工作室)**
-
-A personal studio dedicated to probabilistic robotics research and education. Studio will continue to create and improve courses, develop research tools, and share knowledge with the community.
-
-### Team Members
-
-| Name | Role | Contact |
-|------|------|---------|
-| **Kaixiang Chen**<br>*(Constantine Heinrich CHEN)* | Propriator | Available on the [Contact page](https://chen-kaixiang-huian.github.io/) |
-
----
-
 <p align="center">
   <sub>Built by Excursion Studio | © 2026</sub>
-</p>
-
-<p align="center">
-  <img src="../img/QRCode.jpg" alt="QR Code" width="150">
-  <br>
-  <sub>Scan the QR code to follow the studio's WeChat official account!</sub>
 </p>
