@@ -23,9 +23,26 @@
 
 ## 🔬 研究
 
+<<<<<<< HEAD
 | 研究领域 | 状态 | 描述 |
 |---------|------|------|
 | 导航与规划基础 | 🔬 进行中 | 包括状态估计、SLAM、规划与策略、控制等 |
+=======
+<!-- DIGESTS_START -->
+| 标题 | 链接 |
+|-------|------|
+| 论文导读 1 - Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation **🔥 最新！** | [阅读](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=prespecified-performance-kinematic-tracking-control-for-aerial-manipulation) |
+
+<!-- DIGESTS_END -->
+
+---
+
+## 📚 课程
+
+<!-- COURSES_START -->
+
+<!-- COURSES_END -->
+>>>>>>> cc5f5f09a6118d794bbb5a758b0aa78b9409facd
 
 ---
 
