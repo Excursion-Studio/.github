@@ -23,26 +23,9 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ## 🔬 Research
 
-<<<<<<< HEAD
 | Research Area | Status | Description |
 |---------------|--------|-------------|
 | Foundation of Navigation and Planning | 🔬 Active | Including State Estimation, SLAM, Planning and Policy, and Control |
-=======
-<!-- DIGESTS_START -->
-| Title | Link |
-|-------|------|
-| Paper Guide 1 - Prespecified-Performance Kinematic Tracking Control for Aerial Manipulation **🔥 Latest!** | [Read](https://excursion-studio.github.io/ES-digests/paper-guide/index.html?paper=prespecified-performance-kinematic-tracking-control-for-aerial-manipulation) |
-
-<!-- DIGESTS_END -->
-
----
-
-## 📚 Courses
-
-<!-- COURSES_START -->
-
-<!-- COURSES_END -->
->>>>>>> cc5f5f09a6118d794bbb5a758b0aa78b9409facd
 
 ---
 
