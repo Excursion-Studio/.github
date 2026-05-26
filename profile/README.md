@@ -21,14 +21,6 @@ The site automatically redirects to the Chinese version by default. Use the lang
 
 ---
 
-## 🔬 Research
-
-| Research Area | Status | Description |
-|---------------|--------|-------------|
-| Foundation of Navigation and Planning | 🔬 Active | Including State Estimation, SLAM, Planning and Policy, and Control |
-
----
-
 ## 🎁 Products
 
 ### Research-related Page Templates Series
